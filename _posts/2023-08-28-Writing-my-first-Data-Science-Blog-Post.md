@@ -2,6 +2,7 @@
 title: "Writing my first Data Science Article"
 date: 2023-08-28
 --
+
 # Writing My First Data Science Article
 
 ## Motivation
@@ -33,32 +34,33 @@ Looking at the data types, which for the non-technical people is like if certain
 
 ![Picture1](../images/picture1.png)
 
-Problem solved, all the columns contain the currency, which makes sense for an international company. (Learning Nr. 1)
+Problem solved, all the columns contain the currency, which makes sense for an international company. (**Learning Nr. 1**)
 
 Trying to figure out if I could learn something interesting about the beds, bedrooms, bathrooms and how many people are accommodated.
 
- 
+ ![Picture2](../images/picture2.png)
 
-All columns should have a count of 3818, which leads to Learning Nr. 2: Not everybody fills out the information about the bathrooms, bedrooms and beds.
+All columns should have a count of 3818, which leads to **Learning Nr. 2**: Not everybody fills out the information about the bathrooms, bedrooms and beds.
 
 A good way of exploring data is usually to present it in the form of a histogram, this should be easy with the dataset, as all values should be integers. But …
 
+![Picture3](../images/picture3.png)
  
-Something strange is going on here, I have no idea if the bins are centered, to the left of right of the values or what else. Therefore Learning Nr. 3: As an aspiring data scientist, I need to learn more about how the histogram function works to use it properly in the future.
+Something strange is going on here, I have no idea if the bins are centered, to the left of right of the values or what else. Therefore **Learning Nr. 3**: As an aspiring data scientist, I need to learn more about how the histogram function works to use it properly in the future.
 
 Taking another path and using heat maps on the subset.
 
- 
+![Picture4](../images/picture4.png) 
 
 For the non-technical persons: The ones along the diagonal are normal, the information is in the other fields. For example the field for beds and accommodates is 0.86 which is less than 1, which gives Learning Nr. 4: Some people have to share beds.
 
-Another path to take in our dataset is looking at categorical variables, for example at the room type and bed type. Taking the path as learned in the course I first had Learning Nr.5: There are more room types and bed types than I first thought.
+Another path to take in our dataset is looking at categorical variables, for example at the room type and bed type. Taking the path as learned in the course I first had **Learning Nr.5**: There are more room types and bed types than I first thought.
 
 Again doing a heat map
 
- 
+![Picture5](../images/picture5.png) 
 
-Compared to the previous heat map, the correlations are a lot lower, but there are some thing to be summed up in Learning Nr. 6
+Compared to the previous heat map, the correlations are a lot lower, but there are some thing to be summed up in **Learning Nr. 6**
 
 *	Entire home/apt somewhat correlated with Real bed, which I expected, but I expected the correlation to be higher.
 *	The Private Room does not really correlated with any particular type of bed, I expected the correlation the Real Bed to be higher.
