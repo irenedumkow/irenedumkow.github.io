@@ -34,12 +34,11 @@ Looking at the data types, which for the non-technical people is like if certain
 
 ![Picture1](https://github.com/irenedumkow/irenedumkow.github.io/blob/main/images/picture1.jpg)
 
-https://github.com/irenedumkow/irenedumkow.github.io/blob/main/images/picture1.jpg
 Problem solved, all the columns contain the currency, which makes sense for an international company. (**Learning Nr. 1**)
 
 Trying to figure out if I could learn something interesting about the beds, bedrooms, bathrooms and how many people are accommodated.
 
- ![Picture2](../images/picture2.png)
+ ![Picture2](images/picture2.png)
 
 All columns should have a count of 3818, which leads to **Learning Nr. 2**: Not everybody fills out the information about the bathrooms, bedrooms and beds.
 
