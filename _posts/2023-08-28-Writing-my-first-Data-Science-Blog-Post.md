@@ -28,12 +28,13 @@ In retrospect, this was the easiest part. In the course we have been working wit
 
 Think of it as exploring a valley. I tried to find out how long and wide it is, which means determining the number of rows (3818) and columns (92). Then I wanted to figure out how certain places are called (the names of the columns). Up to now no real surprises, but then …
 
-Exploring the data set
+### Exploring the data set
 
 Looking at the data types, which for the non-technical people is like if certain columns contain apples or oranges or Brussel sprouts, I realized that certain columns were of a type l did not expect, like the price was not a number, what is going on here?
 
 ![Picture1](../docs/assets/images/picture1.png)
 ![Picture1a](https://github.com/irenedumkow/irenedumkow.github.io/blob/main/docs/assets/images/picture1.png)
+[Picture1](https://github.com/irenedumkow/irenedumkow.github.io/blob/main/docs/assets/images/picture1.png)
 
 Problem solved, all the columns contain the currency, which makes sense for an international company. (**Learning Nr. 1**)
 
