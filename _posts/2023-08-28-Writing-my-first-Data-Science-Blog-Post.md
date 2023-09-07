@@ -20,7 +20,7 @@ As my skills are pretty minimal in the moment, I decided to take the people alon
 
 ## First day: Picking the data set.
 
-In retrospect, this was the easiest part. In the course we have been working with the Stack Overflow Data - 2017 Survey . I decided to take another road and work with Seattle Airbnb Data , which was one of the data sets suggested. 
+In retrospect, this was the easiest part. In the course we have been working with the [Stack Overflow Data - 2017 Survey](https://www.kaggle.com/stackoverflow/so-survey-2017) . I decided to take another road and work with Seattle Airbnb Data , which was one of the data sets suggested. 
 
 ## Taking the long, windy road through the data-set
 
