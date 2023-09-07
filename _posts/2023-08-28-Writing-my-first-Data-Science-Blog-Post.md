@@ -32,7 +32,7 @@ Think of it as exploring a valley. I tried to find out how long and wide it is, 
 
 Looking at the data types, which for the non-technical people is like if certain columns contain apples or oranges or Brussel sprouts, I realized that certain columns were of a type l did not expect, like the price was not a number, what is going on here?
 
-![Picture1](../docs/assets/images/picture1.png)
+![Picture1](https://raw.githubusercontent.com/irenedumkow/irenedumkow.github.io/main/docs/assets/images/picture1.png)
 ![Picture1a](https://github.com/irenedumkow/irenedumkow.github.io/blob/main/docs/assets/images/picture1.png)
 [Picture1](https://github.com/irenedumkow/irenedumkow.github.io/blob/main/docs/assets/images/picture1.png)
 
