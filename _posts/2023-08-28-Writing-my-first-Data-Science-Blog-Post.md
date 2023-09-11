@@ -2,7 +2,7 @@
 title: "Writing my first Data Science Article"
 date: 2023-08-28
 --
-![Intro-Picture](https://raw.githubusercontent.com/irenedumkow/irenedumkow.github.io/main/docs/assets/images/question-mark-6786596_1280.jpg)
+![Intro-Picture](https://raw.githubusercontent.com/irenedumkow/irenedumkow.github.io/main/images/question-mark-6786596_1280.jpg)
 # Writing My First Data Science Article
 
 ## Motivation
